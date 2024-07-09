@@ -24,9 +24,7 @@ The project identifies the optimal number of clusters using the elbow method and
 
 The CryptoClustering Challenge consists of the following folders and files:
 
-**Resources folder**
-
-     **crypto_market_data.csv** - The CSV file containing the market data.
+**Resources folder** - Contains the crypto_market_data.csv file.
 
 **Crypto_Clustering.jpynb**   - The Jupyter Notebook file containing the analysis.
  
