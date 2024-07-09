@@ -37,7 +37,7 @@ The CryptoClustering Challenge consists of the following folders and files:
 
 1. Clone the GitHub repository to your local machine using the following command:
 
-git clone https://github.com/SriPenumatcha/CryptoClustering.git
+   git clone https://github.com/SriPenumatcha/CryptoClustering.git
 
 2. Open the `Crypto_Clustering.jpynb` file using Jupyter Notebook.
 
